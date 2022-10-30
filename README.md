@@ -1,2 +1,2 @@
-# .github
+# Informations
 Informations for my repositories
